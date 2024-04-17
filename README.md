@@ -15,8 +15,12 @@ Below are some screenshots that highlight key functionalities and the user inter
 Booking an appointment 1
 <img width="1399" alt="Screenshot 2024-04-17 at 2 09 36 AM" src="https://github.com/jannahhh/El3eyada-UI/assets/98981898/07bf1ac2-1664-4e1e-a32f-0abba1a07ada">
 
+
+
 Paying modal
 <img width="700" alt="Screenshot 2024-04-17 at 2 09 44 AM" src="https://github.com/jannahhh/El3eyada-UI/assets/98981898/26b42aa1-219f-45ee-91df-433b05dd4055">
+
+
 
 Chat messages
 <img width="1400" alt="Screenshot 2024-04-17 at 2 10 22 AM" src="https://github.com/jannahhh/El3eyada-UI/assets/98981898/62a180b7-ec5d-43fd-97cb-905a88070700">
