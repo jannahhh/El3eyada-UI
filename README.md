@@ -1,13 +1,13 @@
 
-https://github.com/jannahhh/El3eyada-UI/assets/98981898/b90ecd41-57fc-4783-8b88-6c7b69792ea7
+
 # El3eyada Platform
 
 ## Introduction
 El3eyada is a comprehensive platform designed to facilitate the interaction between patients and healthcare providers. This platform allows patients to book appointments with doctors and enables doctors to manage their schedules and patient reports efficiently.
 
 ## Video Demo
+https://github.com/jannahhh/El3eyada-UI/assets/98981898/b90ecd41-57fc-4783-8b88-6c7b69792ea7
 
-*Click on the image above to watch a video demonstration of the El3eyada user interface and its features. This video provides a quick walkthrough of how patients and doctors can navigate through the platform.*
 
 ## Screenshots
 Below are some screenshots that highlight key functionalities and the user interface of the El3eyada platform:
